@@ -43,8 +43,7 @@ All the given revisions in version1 and version2 can be stored in a 32-bit integ
 
 */
 
-#include <iostream>
-#include <string>
+#include <bits/stdc++.h>
 int compareVersion(std::string version1, std::string version2)
 {
   std::size_t found1,found2;
