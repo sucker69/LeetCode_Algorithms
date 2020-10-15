@@ -1,6 +1,4 @@
-//Problem Link: https://leetcode.com/problems/3sum/
-
-//Solution
+import java.util.io
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
